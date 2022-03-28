@@ -1,0 +1,2 @@
+include ':UnityWearApi'
+rootProject.name = "UnityWearApi"
