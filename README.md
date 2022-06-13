@@ -1,8 +1,11 @@
 # WearControlAPI
 
-Welcome to the WearControl API Github.
+Welcome to the WearControl API Github. We have uploaded the entire source code for the Android WearOS library that [WearControl Games](https://www.5finstudios.com/wearcontrol-games) uses to connect a smartwatch to our Unity game.
 
-We have uploaded the entire source code for the Android WearOS library that WearControl Games uses to connect a smartwatch to our Unity game.
+**Company:** [5Fin Studios](www.5finstudios.com)
+
+**Game:** [Play Store Link](https://play.google.com/store/apps/details?id=com.wearcontrolgames.WearControl) - It's free!
+
 
 ## Overview
 
